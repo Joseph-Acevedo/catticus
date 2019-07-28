@@ -1,2 +1,2 @@
-# catticus
-An open source robotic cat
+# CATTicus
+An open source robotic cat that leverages OpenCV and an Alexa 
